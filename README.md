@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### This is copy of https://demos.creative-tim.com/vision-ui-dashboard-chakra/?_ga=2.163156668.1099872016.1665666939-1168864615.1665422051#/admin/dashboard
